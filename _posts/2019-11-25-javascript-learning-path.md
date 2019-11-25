@@ -7,72 +7,37 @@ subtitle:
 #tags: [test]
 #comments: true
 ---
+### HTML
+[Книга HTML](https://drive.google.com/file/d/1UyZTuJWUB3GGNVcG4pp2VMvhYVk6rmbP/)  
+[HTML Academy Уровень 1](https://rutracker.org/forum/viewtopic.php?t=5571914/)  
+[HTML Academy Уровень 2](https://rutracker.org/forum/viewtopic.php?t=5566310/)
 
-You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+### JavaScript
+Серия из 6ти книг   
+[YDNJS](https://github.com/getify/You-Dont-Know-JS)    
 
-**Here is some bold text**
+Либо:    
+[Учебник Javascript Info](https://javascript.info/)    
+Если с английским плохо можно  
+[рускоязычную версию](https://learn.javascript.ru/)    
 
-## Here is a secondary heading
+Подготовка к собеседованиям по Javascript (Практика)  
+[Codewars](https://www.codewars.com/) - порешать задачи 5, 6 го уровня  
 
-Here's a useless table:
+Подготовка к собеседованиям по Javascript (Теория)  
+[Частые вопросы на собеседованиях](https://docs.google.com/document/d/1J8o9OHRswMA0Ugt3fBE7T1zr1Ge5O6n7qt2vwC9vFMY/edit?usp=sharing)  
 
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+Изучить документацию:  
+[React](https://reactjs.org/docs/getting-started.html)  
+[Redux](https://redux.js.org/introduction/getting-started)  
+[Saga](https://redux-saga.js.org/docs/introduction/BeginnerTutorial.html)    
+
+[RoadMap](https://m.habr.com/company/mailru/blog/425821/) на долгие годы:)
 
 
-How about a yummy crepe?
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
-It can also be centered!
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .center-block :}
 
-Here's a code chunk:
 
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
 
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
