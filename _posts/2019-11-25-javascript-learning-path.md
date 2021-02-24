@@ -32,7 +32,7 @@ subtitle:
 
 #### Различные Ресурсы
 [Карта Реакт Разработчика](https://m.habr.com/company/mailru/blog/425821/)  
-[Карта Веб Разработчика](https://github.com/zualex/devmap)
+[Карта Веб Разработчика](https://github.com/zualex/devmap)  
 [Полезные ресурсы](https://github.com/theaspect/bootcamp)
 
 
